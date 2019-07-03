@@ -1,3 +1,5 @@
+PHP, SQL application to detect viruses in file uploaded by user - also includes user authentication
+
 registerAdmin.php: Register as an admin
 
 
